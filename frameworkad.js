@@ -1,4 +1,4 @@
-///<reference types="Cypress"/>
+///<reference types="cypress"/>
 import DetailPage from'../PageObject/DetailPage'
 import LoginPage from'../PageObject/loginpage'
 

@@ -1,4 +1,4 @@
-///<reference types="Cypress" />
+///<reference types="cypress" />
 describe('my test suit',()=>{
 it('test case no 1',()=>{
     cy.visit('https://rahulshettyacademy.com/AutomationPractice/')

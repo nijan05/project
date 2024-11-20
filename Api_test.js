@@ -1,10 +1,9 @@
-///<reference types="Cypress"/>
+///<reference types="cypress"/>
 describe('test Api suite case',()=>{
 it('Api test case1',()=>{
 //POST method     
 cy.request('POST','http://216.10.245.166/Library/Addbook.php'
     ,{
-
         "name":"Learn Appium Automation with Java",
         "isbn":"bcd",
         "aisle":"227",

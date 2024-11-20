@@ -1,4 +1,4 @@
-///<reference types="Cypress"/>
+///<reference types="cypress"/>
 describe('My test suite case',()=>{
     it('My test case web table',()=>{
 

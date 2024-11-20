@@ -1,4 +1,4 @@
-///<reference types = "Cypress" />
+///<reference types="cypress"/>
 describe('My text suit 6',()=>{
     it('my test casse 1',()=>{
 // invoke method: its remove the attribute name because here target is mention click new tabe so this method remove that .

@@ -1,4 +1,4 @@
-/// <reference types= "Cypress" />
+/// <reference types= "cypress" />
 describe('My Test suit 4',()=>{
     it('test case 1',()=>{
 
